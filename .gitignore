@@ -33,6 +33,7 @@ pip-selfcheck.json
 # Ignore all local history of files
 .history
 
-# File C
+# Files
+*_euler*
 *.c
 # End of https://www.gitignore.io/api/virtualenv,visualstudiocode
